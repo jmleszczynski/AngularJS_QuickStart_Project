@@ -1,0 +1,23 @@
+/* Master Styles */
+
+h1 {
+
+	color: #3699;
+	font-family: Arial, Helvetica, sans-seriff;
+	font-size: 250%;
+
+}
+
+h2, h3 {
+
+	color: #4444;
+	font-family: Arial, Helvetica, sans-seriff;
+	font-weight: lighter;
+
+}
+
+body {
+
+	margin: 2em;
+
+}
